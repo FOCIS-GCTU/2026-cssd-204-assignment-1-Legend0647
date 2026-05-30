@@ -10,7 +10,9 @@
 # On my honor, Winner Kodjo Buamey, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
+
 def main():
+    # Function to print my initials
     print()
     print("...WKB")
     print()
@@ -25,5 +27,6 @@ def main():
     print("...WWW......WWW...**...KK.......KK....**...BB.......BB....**")
     print("...WW........WW...**...KK........KK...**...BBBBBBBBBB.....**")
     print()
+
 
 main()
